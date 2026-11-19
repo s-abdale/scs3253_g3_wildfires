@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1H6pEH2F0cZnqsZmODORGuSrmm6NTsMFg/view
 FIRMS + POWER : Merged Data:
 https://drive.google.com/file/d/1ulb_YChotYeQ9GJrvkV9x9rbnClLTRHN/view
 
-Additional shared files (filenames to confirm):
+Additional shared files:
 
 1. https://drive.google.com/file/d/1p3mfR_Lz5x15ikWI6x9YPnGXsrqhK3UE/view
 2. https://drive.google.com/file/d/1yxwn2R5tkCnqRLMH8FSGznu9-ivbaRlf/view
